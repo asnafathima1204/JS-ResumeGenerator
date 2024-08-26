@@ -1,0 +1,13 @@
+/* #cv-form{
+    display: none;
+} */
+#cv-template{
+    display: none;
+}
+.my-img{
+    width: 200px;
+    border-radius: 50%;
+}
+#cv-template .card-header, .background,#cv-template .btn{
+    background-color: bisque;
+}
